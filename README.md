@@ -1,2 +1,2 @@
 # Java-CodingChallenge-
-coding challenges , leet-code , other coding challenges  
+coding challenges, leet-code, and other coding challenges  
